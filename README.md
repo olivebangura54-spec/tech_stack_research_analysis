@@ -1,4 +1,4 @@
-I    MY TECH STACK RESEARCH
+I                  MY TECH STACK RESEARCH
       OVERVIEW  :this project provides a comprehensive study of tech stcak architecture,examining how different technologies across the frontend,backend and database layers integrate to build modern apps.
 
 TECH STACK:this is the combination of tools,programming languages,framework and technologies used to build and run an app.
